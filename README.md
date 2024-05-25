@@ -15,7 +15,7 @@ The `ft_printf()` function handles the following conversions:
 - `%X`: Prints a number in hexadecimal (base 16) uppercase format.
 - `%%`: Prints a percent sign.
 
-Your `ft_printf()` can also handle the flags `-0.` and the minimum field width for all the conversions mentioned above.
+Your `ft_printf()` can also handle the flags `'-0.'` and the minimum field width for all the conversions mentioned above.
 
 ## Usage
 To use `ft_printf()` in one of your project, follow these steps:
