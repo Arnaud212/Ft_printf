@@ -22,8 +22,8 @@ To use `ft_printf()` in one of your project, follow these steps:
 
 1. Clone the git repository:
    ```sh
-   git clone <your-repository-url>
-   cd <your-repository-folder>
+   git clone https://github.com/Arnaud212/Ft_printf.git
+   cd Ft_printf
    ```
 2. Compile the library using the provided Makefile:
    ```sh
